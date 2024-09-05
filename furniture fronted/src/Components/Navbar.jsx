@@ -12,7 +12,7 @@ function Navbar({ one }) {
       >
         <div className="container">
           <Link className="navbar-brand" to="/">
-            Furni<span>.</span>
+            VishalChaubey<span>.</span>
           </Link>
           <button
             className="navbar-toggler"
